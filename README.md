@@ -1,1 +1,3 @@
 # To-do-list-application-using-html-css-and-javascript-
+This is a simple and interactive To-Do List Web Application built using HTML, CSS, and JavaScript. It allows users to add tasks with optional dates, mark them as completed, or delete them. The interface is clean and responsive, featuring a modern card layout and animated buttons. All tasks are dynamically managed using JavaScript, making the app fully functional without any page reloads. It's a great example of using basic web technologies to build a useful productivity tool.
+here is the output :![Screenshot 2025-06-20 211234](https://github.com/user-attachments/assets/6692a845-42bc-4dd4-b2ca-d6dc84b44b83)
